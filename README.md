@@ -1,2 +1,0 @@
-# MyDemo
-Jenkins Demo Project
